@@ -1,5 +1,5 @@
 # Python Template
-[![CI](https://github.com/revanth7667/python_template/actions/workflows/cicd.yml/badge.svg)](https://github.com/revanth7667/python_template/actions/workflows/cicd.yml)
+[![CI](https://github.com/revanth7667/PDS_Assignments/actions/workflows/cicd.yml/badge.svg)](https://github.com/revanth7667/PDS_Assignments/actions/workflows/cicd.yml)
 
 Base Template For Python Projects
 
