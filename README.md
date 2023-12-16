@@ -1,11 +1,18 @@
-# Python Template
+# Practical Data Science - Assignments
+
+
 [![CI](https://github.com/revanth7667/PDS_Assignments/actions/workflows/cicd.yml/badge.svg)](https://github.com/revanth7667/PDS_Assignments/actions/workflows/cicd.yml)
 
-Base Template For Python Projects
+Practical Data Science, Fall-2023 Assignments
 
-Instructions:
-1. Add the packages required for the project in the [requiremnts.txt](requirements.txt) file
-2. Add any additional packages if required for GitHub actions in the [requiremnts_actions.txt](requirements_actions.txt) file
-3. Github Action for Testing is commented out, enable it the [cicd.yml](.github/workflows/cicd.yml) file when required
-4. Update the path for the testing and coverage report in the [Makefile](Makefile)
-5. Update the Link to the Github Workflow Badge in the README
+Assingments are present in the 'codes' folder. The folder structure is as follows:
+
+1. notebooks: Contains the assingments which were performed using Jupyter Notebooks.
+2. scripts: Contains the assingments which were performed using Python Scripts.
+
+The following tags are used in the file name to denote the type of assignment:
+
+1. IND - Individual Assignments
+2. GRP - Group Assignments
+
+The Date in the assignment name is the date the assignment was given and not the date of submission.
